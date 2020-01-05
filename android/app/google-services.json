@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020143763166",
+    "firebase_url": "https://surreal-flutter.firebaseio.com",
+    "project_id": "surreal-flutter",
+    "storage_bucket": "surreal-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020143763166:android:9c0e76515b8f7fbb758c4f",
+        "android_client_info": {
+          "package_name": "af.surreal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020143763166-hkaqvnmhhh4mvo8hfld42trl93693vla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "af.surreal.app",
+            "certificate_hash": "d8e5563a7e8a62d6f237fffe88eca926aa9ced2b"
+          }
+        },
+        {
+          "client_id": "1020143763166-5sfehqah8n75n2qmoa7lfv885s9l8hdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eyIcgN7B571NjQEGq81gC4LTqfeV1IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020143763166-5sfehqah8n75n2qmoa7lfv885s9l8hdb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020143763166-nl8kjccojgc5bsi6qai56lluluuarunq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "af.surreal.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
